@@ -1,0 +1,36 @@
+body{
+    background-color:black;
+}
+
+h1{
+    letter-spacing: 6px;
+    font-size: 3.5em;
+    font-weight: bold;
+    text-align: center;
+    color:white;
+
+}
+
+h2{
+    letter-spacing: 2px;
+    font-size: 2.5em;
+    text-align: center;
+    color:red;
+
+}
+
+button {
+    
+    background-color: white; /* Green */
+    border: none;
+    color: red;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display:block;
+    margin: 0 auto;
+    font-size: 16px;
+  }
+
+
+
